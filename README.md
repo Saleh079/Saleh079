@@ -1,5 +1,5 @@
 # Hi, I'm Saleh Alghamdi 👋
-### AI Solutions Architect & Technical Lead
+### AI Solutions Engineer & Technical Lead
 **Riyadh / Abha, Saudi Arabia**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/saleh-ma)
@@ -35,9 +35,9 @@ Currently focused on **AI Governance**, **Multi-Agent Orchestration**, and **SDA
 * **Languages:** Python (Expert), C++, SQL, JavaScript.
 
 ---
-
-### 📊 GitHub Stats
-![Saleh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saleh-ma&show_icons=true&theme=radical)
+### 🔭 Current Focus
+I am currently architecting **Scalable Multi-Agent Systems** and **Air-Gapped LLM Deployments**.
+My public repositories represent the **production-ready kernels** of these larger architectural initiatives.
 
 ---
 *Open to Technical Leadership and Senior AI Engineering roles.*
