@@ -1,5 +1,5 @@
 # Hi, I'm Saleh Alghamdi 👋
-### AI Solutions Engineer & Technical Lead
+### AI Engineer & Technical Lead
 **Riyadh / Abha, Saudi Arabia**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/saleh-ma)
@@ -22,7 +22,7 @@ Currently focused on **AI Governance**, **Multi-Agent Orchestration**, and **SDA
 | :--- | :--- | :--- |
 | **[Multi-Agent Orchestration](https://github.com/Saleh079/multi-tool-agents)** | **Architect** | Production pipeline enabling **90% reduction in manual review time** via strictly governed Writer-Critic-Editor agents. |
 | **[Saheb (Technical Blueprint)](https://saheb.netlify.app/)** | **Lead Architect** | Comprehensive architecture & ROI analysis for an **Arabic-first AI Secretary**. Designed for data sovereignty using **SDAIA 'Allam'**. |
-| **[SecureCode Enterprise API](https://github.com/saleh079/securecode)** | **Engineer** | **Air-gapped** GenAI inference service using Docker/FastAPI. Built for enterprises requiring strict **Data Residency**. |
+| **[SecureCode Enterprise API](https://github.com/Saleh079/secure-llm-api)** | **Engineer** | **Air-gapped** GenAI inference service using Docker/FastAPI. Built for enterprises requiring strict **Data Residency**. |
 | **[Fleet IoT Optimization](https://sa-ai.netlify.app/#projects)** | **Co-Founder** | Industrial IoT system processing **10Hz telemetry** from 300+ vehicles. Reduced operational costs by **20%**. |
 
 ---
