@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 Professional Summary
+### <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png" width="20" height="20"> Professional Summary
 I bridge the gap between **Research** and **Production**.
 With 5+ years of experience, I specialize in architecting **Secure AI Systems** (RAG, Air-Gapped LLMs) and **Industrial IoT Solutions**. I have successfully deployed systems serving **1,500+ users** and optimizing fleets of **300+ vehicles**.
 
@@ -16,10 +16,7 @@ Currently focused on **AI Governance**, **Multi-Agent Orchestration**, and **SDA
 
 ---
 
-### 🏆 Featured Projects
-<p>
-  <img src="https://skillicons.dev/icons?i=python,docker,kubernetes,fastapi,pytorch,raspberrypi" />
-</p>
+### <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png" width="20" height="20"> Featured Projects
 | Project | Role | Impact |
 | :--- | :--- | :--- |
 | **[Multi-Agent Orchestration](https://github.com/Saleh079/multi-tool-agents)** | **Architect** | Production pipeline enabling **90% reduction in manual review time** via strictly governed Writer-Critic-Editor agents. |
@@ -29,15 +26,14 @@ Currently focused on **AI Governance**, **Multi-Agent Orchestration**, and **SDA
 
 ---
 
-### 🛠 Tech Stack & Tools
-
+### <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png" width="20" height="20"> Tech Stack & Tools
 * **AI/LLM:** LangChain, LangGraph, RAG, OpenAI, Azure AI, HuggingFace.
 * **Production:** Docker, Kubernetes, FastAPI, NGINX, Celery.
 * **Edge/IoT:** Raspberry Pi, MQTT, TensorFlow Lite, ARM Cortex.
 * **Languages:** Python (Expert), C++, SQL, JavaScript.
 
 ---
-### 🔭 Current Focus
+### <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png" width="20" height="20"> Current Focus
 I am currently architecting **Scalable Multi-Agent Systems** and **Air-Gapped LLM Deployments**.
 My public repositories represent the **production-ready kernels** of these larger architectural initiatives.
 
