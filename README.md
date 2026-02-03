@@ -17,7 +17,9 @@ Currently focused on **AI Governance**, **Multi-Agent Orchestration**, and **SDA
 ---
 
 ### 🏆 Featured Projects
-
+<p>
+  <img src="https://skillicons.dev/icons?i=python,docker,kubernetes,fastapi,pytorch,raspberrypi" />
+</p>
 | Project | Role | Impact |
 | :--- | :--- | :--- |
 | **[Multi-Agent Orchestration](https://github.com/Saleh079/multi-tool-agents)** | **Architect** | Production pipeline enabling **90% reduction in manual review time** via strictly governed Writer-Critic-Editor agents. |
